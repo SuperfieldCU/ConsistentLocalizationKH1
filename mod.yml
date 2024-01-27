@@ -1,0 +1,50 @@
+
+title: Consistent Localization Final Mix
+originalAuthor: Superfield
+description: Part of a mod series intended to reduce inconsistencies between the English localizations.
+assets:
+
+- name: remastered/btltbl.bin/UK_AbilityName.bin
+  method: copy
+  source:
+  - name: remastered/CL_AbilityName.bin
+
+- name: remastered/btltbl.bin/UK_ItemHelp.bin
+  method: copy
+  source:
+  - name: remastered/CL_ItemHelp.bin
+
+- name: remastered/btltbl.bin/UK_Word.bin
+  method: copy
+  source:
+  - name: remastered/CL_Word.bin
+
+- name: remastered/menu/md_dic_msg.kmb/UK_md_dic_msg.kmb
+  method: copy
+  source:
+  - name: remastered/CL_md_dic_msg.kmb
+
+- name: remastered/menu/md_memo_sysmsg.bin/UK_md_memo_sysmsg.binl
+  method: copy
+  source:
+  - name: remastered/CL_md_memo_sysmsg.binl
+
+- name: remastered/worldmap/challe.dat/UK_ChallengeMsg.bin
+  method: copy
+  source:
+  - name: remastered/CL_ChallengeMsg.bin
+
+- name: remastered/worldmap/challe.dat/UK_ChallengeOfs.bin
+  method: copy
+  source:
+  - name: remastered/CL_ChallengeOfs.binl
+
+- name: exchange/UK_gumi_mes_data.bin
+  method: copy
+  source:
+  - name: exchange/CL_gumi_mes_data.bin
+
+- name: exchange/UK_gumi_mes_ofs.bin
+  method: copy
+  source:
+  - name: exchange/CL_gumi_mes_ofs.bin
