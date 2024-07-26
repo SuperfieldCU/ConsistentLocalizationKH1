@@ -29,6 +29,16 @@ assets:
   source:
   - name: remastered/CL_md_memo_sysmsg.binl
 
+- name: remastered/tw01.ard/UK_tw01_ard3ed.binl
+  method: copy
+  source:
+  - name: remastered/CL_tw_ard3.binl
+
+- name: remastered/tw26.ard/UK_tw26_ard3ea.binl
+  method: copy
+  source:
+  - name: remastered/CL_tw_ard3.binl
+
 - name: remastered/worldmap/challe.dat/UK_ChallengeMsg.bin
   method: copy
   source:
