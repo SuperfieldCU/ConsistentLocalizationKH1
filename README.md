@@ -29,59 +29,67 @@ The four playable games in the Kingdom Hearts HD I.5+II.5 ReMIX collection and D
 The following is a brief overview of text changes made. This is as exhaustive as I could make it without being overly specific or repetitive:
 
 ### Abilities
-* Guard -> Block
-* Counterattack -> Counter Strike
-* Critical Plus -> Critical Boost
-* Encounter Plus -> Encounter Boost
-* MP Rage -> MP Syphon
-* Rocket -> Goofy Rocket
-* Charge -> Goofy Charge
-* Tornado -> Goofy Tornado
-* Second Wind -> Hyper Healing
-* Applause! -> Applause, Please!
-* Fire Breath -> Flare Breath
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Guard | Block | |
+| Counterattack | Counter Strike | |
+| Critical Plus | Critical Boost | |
+| Encounter Plus | Encounter Boost | |
+| MP Rage | MP Syphon | |
+| Rocket | Goofy Rocket | |
+| Charge | Goofy Charge | |
+| Tornado | Goofy Tornado | |
+| Second Wind | Hyper Healing | |
+| Applause! | Applause, Please! | |
+| Fire Breath | Flare Breath | |
 
 ### Items
-* Power Up -> Strength Boost
-* Defense Up -> Defense Boost
-* AP Up -> AP Boost
-* Fury Stone -> Spirit Stone
-* Power Shard -> Pulsing Shard
-* Power Gem -> Pulsing Gem
-* Power Stone -> Pulsing Stone
-* Power Crystal -> Wellspring Crystal
-* Energy Stone -> Wellspring Stone
-* Blaze Shard -> Blazing Shard
-* Blaze Gem -> Blazing Gem
-* Thunder Shard -> Lightning Shard
-* Thunder Gem -> Lightning Gem
-* Dazzling Stone -> Shiny Stone
-* Bright Shard -> Soothing Shard
-* Bright Gem -> Soothing Gem
-* Bright Crystal -> Soothing Crystal
-* Mystery Goo -> Hungry Stone
-* Serenity Power -> Hungry Power
-* Gale -> Stormy Wind
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Power Up | Strength Boost | |
+| Defense Up | Defense Boost | |
+| AP Up | AP Boost | |
+| Fury Stone | Spirit Stone | |
+| Power Shard | Pulsing Shard | |
+| Power Gem | Pulsing Gem | |
+| Power Stone | Pulsing Stone | |
+| Power Crystal | Wellspring Crystal | |
+| Energy Stone | Wellspring Stone | |
+| Blaze Shard | Blazing Shard | |
+| Blaze Gem | Blazing Gem | |
+| Thunder Shard | Lightning Shard | |
+| Thunder Gem | Lightning Gem | |
+| Dazzling Stone | Shiny Stone | |
+| Bright Shard | Soothing Shard | |
+| Bright Gem | Soothing Gem | |
+| Bright Crystal | Soothing Crystal | |
+| Mystery Goo | Hungry Stone | |
+| Serenity Power | Hungry Power | |
+| Gale | Stormy Wind | |
 
 All synthesis items whose names were changed had their original names added to their description.
 
 Many synthesis item descriptions were changed to better align with later games' descriptions.
 
 ### Accessories
-* Firagun Band -> Firaza Band
-* Blizzagun Band -> Blizzaza Band
-* Thundagun Band -> Thundaza Band
-* Three Stars -> Celestriad
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Firagun Band | Firaza Band | |
+| Blizzagun Band | Blizzaza Band | |
+| Thundagun Band | Thundaza Band | |
+| Three Stars | Celestriad | |
 
 ### Gummi
 The hyphen in the name of all Gummi parts was changed to a forward slash; only the ones that received an additional change on top of that are listed below.
 
-* Holy-G -> Faith/G
-* Osmose-G -> Syphon/G
-* Haste2-G -> Hastega/G
-* Shield2-G -> Wall/G
-* Wheel-G -> Tire/G
-* Dark-G -> Darkness/G
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Holy-G | Faith/G | |
+| Osmose-G | Syphon/G | |
+| Haste2-G | Hastega/G | |
+| Shield2-G | Wall/G | |
+| Wheel-G | Tire/G | |
+| Dark-G | Darkness/G | |
 
 ### World Map
 * The names of Gummi parts in Gummi Mission descriptions were adjusted in accordance to their name changes as listed above.
