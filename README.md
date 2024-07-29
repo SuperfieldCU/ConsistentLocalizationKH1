@@ -79,6 +79,9 @@ Many synthesis item descriptions were changed to better align with later games' 
 | Thundagun Band | Thundaza Band | |
 | Three Stars | Celestriad | |
 
+### Equipment
+The Dream Shield for Goofy increases his MP by 1, but the description mistakenly says that it increases it by 2. This was fixed.
+
 ### Gummi
 The hyphen in the name of all Gummi parts was changed to a forward slash; only the ones that received an additional change on top of that are listed below.
 
