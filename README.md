@@ -99,3 +99,6 @@ The hyphen in the name of all Gummi parts was changed to a forward slash; only t
 
 ### Journal
 * The numbering of the Ansem Reports was restored to the original Japanese numbering of 0-12, rather than the localized 1-13.
+
+### Tutorial
+* The opening sequence now refers to objects dropped by enemies as "prizes" instead of "items".

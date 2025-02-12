@@ -49,6 +49,16 @@ assets:
   source:
   - name: remastered/CL_ChallengeOfs.binl
 
+- name: remastered/dh02.ard/UK_dh02_ard3e8.binl
+  method: copy
+  source:
+  - name: remastered/CL_dh02_ard3e8.binl
+
+- name: remastered/dh02.ard/UK_dh02_ard3eb.binl
+  method: copy
+  source:
+  - name: remastered/CL_dh02_ard3eb.binl
+
 - name: exchange/UK_gumi_mes_data.bin
   method: copy
   source:
